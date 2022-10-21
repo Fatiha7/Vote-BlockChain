@@ -1,2 +1,2 @@
 # Vote-BlockChain
-##node js in backend and react in frontend
+node js in backend and react in frontend
